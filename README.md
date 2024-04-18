@@ -11,6 +11,8 @@ This repository documents my progress and projects in the Project Management cou
 ## Course Overview 
 - **Fundamentals of Project Management**
 - **Project Initiation**
-- **Project Initiations**
-- **Project Initiations**
+- **Project Planning**
+- **Project Execution**
+- **Agile Project Management**
+- **Capstone** 
 
